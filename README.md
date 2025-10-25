@@ -20,7 +20,7 @@ Transforming ideas into systems that endure — software that is simple in desig
 
 ## 📫 Connect With Me  
 Always interested in collaborating, learning or discussing ideas.  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bartolomeu-hangalo-682382253)) · [Email](mailto:bartolomeujose.manilson@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bartolomeu-hangalo-682382253) · [Email](mailto:bartolomeujose.manilson@gmail.com)
 
 ---
 > *"Code is a language that only the patient learn to speak fluently."*
