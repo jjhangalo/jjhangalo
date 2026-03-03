@@ -1,26 +1,39 @@
-# 👋 Hi, I’m Bartolomeu Hangalo
+# Bartolomeu Hangalo
 
-Software Developer & Programming Lecturer  
-Building mobile and web applications with efficiency, elegance and scale.
+Software Developer and Programming Lecturer based in Angola.  
+I build web, mobile, and backend systems focused on clarity, reliability, and scale.
 
-## 🧑‍💻 What I Do  
-I use Java, Kotlin and Python to craft back-ends, mobile apps and intelligent systems. My tech stack spans Spring, Jakarta EE, Django, Next.js, Angular.
-I also work with Dart, HTML, CSS, JavaScript/TypeScript and have C/C++ experience.
+Website: [hangalito.dev](https://hangalito.dev)
 
-## 🛠 Tech Stack  
-- **Languages:** Java · Kotlin · Python  
-- **Frameworks & Platforms:** Spring · Jakarta EE · Django · Next.js · Angular
-- **Other Skills:** Dart · HTML · CSS · JavaScript/TypeScript · C/C++  
+## GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangalito&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github)
+![GitHub Streak](https://streak-stats.demolab.com?user=hangalito)
 
-## 🌌 Interests  
-Astronomy · Philosophy · Neuroscience · Exploring how technology intersects with human creativity.
+## Most Used Languages (with %)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hangalito&layout=compact&langs_count=8)
 
-## 🎯 Current Focus  
-Transforming ideas into systems that endure — software that is simple in design, robust in structure and meaningful in purpose.
+## About Me
+- I enjoy translating complex ideas into practical software.
+- I work across backend architecture, APIs, and mobile/web experiences.
+- I care about clean engineering, long-term maintainability, and meaningful products.
 
-## 📫 Connect With Me  
-Always interested in collaborating, learning or discussing ideas.  
-[LinkedIn](https://www.linkedin.com/in/bartolomeu-hangalo-682382253) · [Email](mailto:bartolomeujose.manilson@gmail.com)
+## Core Stack
+- **Languages:** Java, Kotlin, Python, Dart, TypeScript, JavaScript, C/C++
+- **Backend:** Spring, Jakarta EE, Django
+- **Frontend:** Next.js, Angular, HTML, CSS
+- **Focus Areas:** System design, developer experience, product-oriented engineering
+
+## Current Direction
+- Building robust applications with simple architecture and strong foundations
+- Sharing knowledge through teaching, mentoring, and technical writing
+- Exploring the intersection of technology, creativity, and human behavior
+
+## Interests Beyond Code
+Astronomy, philosophy, and neuroscience.
+
+## Connect
+- LinkedIn: [bartolomeu-hangalo](https://www.linkedin.com/in/bartolomeu-hangalo-682382253)
+- Email: [bartolomeujose.manilson@gmail.com](mailto:bartolomeujose.manilson@gmail.com)
 
 ---
-> *"Code is a language that only the patient learn to speak fluently."*
+> "Code is a language that only the patient learn to speak fluently."

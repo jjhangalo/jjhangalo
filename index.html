@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bartolomeu Hangalo</title>
+    <style>
+      :root {
+        --bg: #0b1020;
+        --panel: #121a33;
+        --text: #e6ecff;
+        --muted: #99a8d9;
+        --accent: #58a6ff;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: radial-gradient(circle at top, #1a2752 0%, var(--bg) 55%);
+        color: var(--text);
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 56px 20px;
+      }
+
+      .card {
+        background: color-mix(in srgb, var(--panel) 88%, black);
+        border: 1px solid #2b3b73;
+        border-radius: 14px;
+        padding: 24px;
+        margin-bottom: 20px;
+      }
+
+      h1,
+      h2 {
+        margin-top: 0;
+      }
+
+      p,
+      li {
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .links a {
+        color: var(--accent);
+        text-decoration: none;
+        margin-right: 16px;
+      }
+
+      .links a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="card">
+        <h1>Bartolomeu Hangalo</h1>
+        <p>
+          Software Developer and Programming Lecturer. I build web, mobile, and
+          backend systems focused on clarity, reliability, and scale.
+        </p>
+        <div class="links">
+          <a href="https://github.com/hangalito">GitHub</a>
+          <a href="https://www.linkedin.com/in/bartolomeu-hangalo-682382253"
+            >LinkedIn</a
+          >
+          <a href="mailto:bartolomeujose.manilson@gmail.com">Email</a>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>Core Stack</h2>
+        <p>Java, Kotlin, Python, Dart, TypeScript, JavaScript, C/C++</p>
+        <p>Spring, Jakarta EE, Django, Next.js, Angular</p>
+      </section>
+
+      <section class="card">
+        <h2>Current Direction</h2>
+        <ul>
+          <li>Building robust applications with simple architecture</li>
+          <li>Teaching and mentoring upcoming developers</li>
+          <li>Exploring technology, creativity, and human behavior</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>
