@@ -46,6 +46,13 @@ I design and build software products for organizations that need reliable system
 **Infrastructure:** Docker, GitHub Actions, Vercel, Linux  
 **Architecture:** APIs, RBAC, multi-tenant systems, operational workflows
 
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjhangalo&show_icons=true&theme=github_dark&hide_border=true" alt="Bartolomeu Hangalo GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=jjhangalo&theme=github-dark-blue&hide_border=true" alt="Bartolomeu Hangalo GitHub streak" />
+</p>
+
 ## Engineering Focus
 
 - Software architecture that remains understandable as products grow
