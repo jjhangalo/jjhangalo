@@ -50,8 +50,10 @@ I design and build software products for organizations that need reliable system
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jjhangalo&show_icons=true&theme=github_dark&hide_border=true" alt="Bartolomeu Hangalo GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=jjhangalo&theme=github-dark-blue&hide_border=true" alt="Bartolomeu Hangalo GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=jjhangalo&theme=github-dark-blue&hide_border=true&hide_total_contributions=true" alt="Bartolomeu Hangalo GitHub streak" />
 </p>
+
+<p align="center"><sub>Public profile metrics. Private work may be excluded depending on GitHub visibility settings and third-party widget limits.</sub></p>
 
 ## Engineering Focus
 
