@@ -19,45 +19,6 @@ My work focuses on:
 
 I care about systems that are practical, maintainable, and useful in real operating environments.
 
-## Current Focus
-
-### Flash
-
-A B2B operating system for training centers.
-
-Flash is designed to help institutions manage courses, teachers, students, enrollments, collaboration, reporting, and internal workflows across isolated workspaces.
-
-Core areas:
-
-- Multi-tenant architecture
-- Institution-based access control
-- Course and enrollment management
-- Teacher and student workflows
-- Operational reporting
-- Administrative dashboards
-
-Status: private commercial product.
-
-### Ramos Glamour
-
-A digital commerce platform for a fashion and beauty business.
-
-Core areas:
-
-- Storefront experience
-- Product catalog management
-- Orders and customer workflows
-- Admin operations
-- Modern web application architecture
-
-Status: private commercial product.
-
-### Hangalo.me
-
-My personal portfolio and public professional profile.
-
-Built to centralize my work, projects, background, links, and product direction.
-
 ## Engineering Interests
 
 - Software architecture
@@ -88,18 +49,3 @@ For public visibility, I maintain selected repositories, case studies, and portf
 I study and build software with a focus on practical systems rather than isolated code.
 
 My work combines software engineering, product thinking, and business operations. I am especially interested in building software that helps organizations move from fragmented manual processes to structured, reliable digital systems.
-
-## Connect
-
-- LinkedIn: [bartolomeu-hangalo](https://www.linkedin.com/in/bartolomeu-hangalo-682382253)
-- Email: [bartolomeujose.manilson@gmail.com](mailto:bartolomeujose.manilson@gmail.com)
-
-## GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhangalo&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhangalo&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
