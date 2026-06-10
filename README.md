@@ -26,17 +26,17 @@ I design and build software products for organizations that need reliable system
 ## Core Stack
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=60A5FA" />
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=22C55E" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=22C55E" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=60A5FA" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=22C55E" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38BDF8" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3FB950" />
+  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=3FB950" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=E5E7EB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=3FB950" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=3FB950" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=3FB950" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=3FB950" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3FB950" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=3FB950" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FB950" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=3FB950" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=E5E7EB" />
 </p>
 
@@ -49,7 +49,7 @@ I design and build software products for organizations that need reliable system
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=jjhangalo&theme=github-dark-blue&hide_border=true" alt="Bartolomeu Hangalo GitHub activity and streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=jjhangalo&theme=github-dark&hide_border=true&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&sideNums=3FB950&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=8B949E" alt="Bartolomeu Hangalo GitHub activity and streak" />
 </p>
 
 <p align="center"><sub>Total contributions are based on the GitHub contribution graph and include private contribution counts when they are visible on the profile.</sub></p>
