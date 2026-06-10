@@ -6,13 +6,13 @@
       <stop offset="1" stop-color="#020617"/>
     </linearGradient>
     <linearGradient id="accent" x1="170" y1="110" x2="1060" y2="330" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="0.5" stop-color="#818CF8"/>
-      <stop offset="1" stop-color="#22C55E"/>
+      <stop offset="0" stop-color="#0E4429"/>
+      <stop offset="0.46" stop-color="#26A641"/>
+      <stop offset="1" stop-color="#39D353"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="28" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.55 0 0 0 0 0.95 0 0 0 0.45 0"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.12 0 0 0 0 0.73 0 0 0 0 0.31 0 0 0 0.42 0"/>
       <feBlend in="SourceGraphic" mode="screen"/>
     </filter>
   </defs>
@@ -26,22 +26,22 @@
     <path d="M1126 40V380" stroke="#94A3B8" stroke-width="1"/>
   </g>
 
-  <circle cx="1015" cy="116" r="118" fill="#1D4ED8" opacity="0.24" filter="url(#glow)"/>
-  <circle cx="264" cy="318" r="130" fill="#059669" opacity="0.18" filter="url(#glow)"/>
+  <circle cx="1015" cy="116" r="118" fill="#238636" opacity="0.22" filter="url(#glow)"/>
+  <circle cx="264" cy="318" r="130" fill="#2EA043" opacity="0.18" filter="url(#glow)"/>
 
-  <path d="M176 276C302 154 425 153 552 246C690 347 823 332 934 226C1008 155 1076 137 1132 164" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
-  <path d="M176 300C302 178 425 177 552 270C690 371 823 356 934 250C1008 179 1076 161 1132 188" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+  <path d="M176 276C302 154 425 153 552 246C690 347 823 332 934 226C1008 155 1076 137 1132 164" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity="0.78"/>
+  <path d="M176 300C302 178 425 177 552 270C690 371 823 356 934 250C1008 179 1076 161 1132 188" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.38"/>
 
   <g transform="translate(112 92)">
     <rect x="0" y="0" width="1056" height="236" rx="28" fill="#0B1220" opacity="0.82" stroke="#1F2937"/>
     <text x="54" y="82" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1.5">Bartolomeu Hangalo</text>
     <text x="56" y="130" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="500">Software Developer · Product Builder · Systems Thinker</text>
     <rect x="56" y="160" width="392" height="38" rx="19" fill="#111827" stroke="#334155"/>
-    <text x="78" y="185" fill="#A7F3D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Business systems</text>
+    <text x="78" y="185" fill="#B7F5C8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Business systems</text>
     <circle cx="232" cy="179" r="4" fill="#64748B"/>
-    <text x="248" y="185" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">SaaS platforms</text>
+    <text x="248" y="185" fill="#7EE787" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">SaaS platforms</text>
     <circle cx="382" cy="179" r="4" fill="#64748B"/>
-    <text x="398" y="185" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">APIs</text>
+    <text x="398" y="185" fill="#56D364" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">APIs</text>
     <text x="56" y="222" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Building operational software for organizations that need structure, automation, and clarity.</text>
   </g>
 </svg>
