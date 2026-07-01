@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Bartolomeu Hangalo - Software Developer and Product Builder" />
+  <img src="./assets/profile-banner.svg" alt="Bartolomeu Hangalo - Software Engineer, Product Builder, and Systems Architect" />
 </p>
 
 <p align="center">
@@ -7,21 +7,22 @@
 </p>
 
 <p align="center">
-  Software developer and product builder based in Luanda, building for markets beyond geographic boundaries.
+  Software engineer and product builder based in Luanda, Angola. I design practical systems for organizations that need structure, automation, reliable data, and scalable operations.
 </p>
 
 ---
 
 ## What I Build
 
-I design and build software products for organizations that need reliable systems, clear workflows, better data structures, and scalable operations.
+I build software products that turn fragmented manual processes into structured digital systems.
 
 | Area | Focus |
 | --- | --- |
-| Business systems | Tools that structure operations, workflows, and internal processes |
-| SaaS platforms | Multi-tenant products, access control, dashboards, and product workflows |
-| Backend platforms | APIs, data models, integrations, and operational foundations |
-| Digital operations | Automation, reporting, administrative tooling, and decision support |
+| Business systems | Internal platforms, administrative workflows, reporting, and operational control |
+| SaaS platforms | Multi-tenant products, RBAC, dashboards, onboarding flows, and subscription-ready foundations |
+| Backend platforms | APIs, domain models, integrations, database design, and service boundaries |
+| Product engineering | Turning business requirements into usable software with clear technical trade-offs |
+| Digital operations | Automation, decision support, data organization, and process visibility |
 
 ## Core Stack
 
@@ -31,9 +32,12 @@ I design and build software products for organizations that need reliable system
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=E5E7EB" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=3FB950" />
   <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=3FB950" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=3FB950" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=3FB950" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=3FB950" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-111827?style=flat-square&logo=nestjs&logoColor=3FB950" />
   <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3FB950" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=3FB950" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=3FB950" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3FB950" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=3FB950" />
@@ -41,10 +45,10 @@ I design and build software products for organizations that need reliable system
 </p>
 
 **Frontend:** TypeScript, React, Next.js, Tailwind CSS  
-**Backend:** Java, Spring Boot, Node.js, Python  
+**Backend:** Java, Kotlin, Spring Boot, Node.js, NestJS, Python, FastAPI  
 **Databases:** PostgreSQL, Supabase, Prisma  
-**Infrastructure:** Docker, GitHub Actions, Vercel, Linux  
-**Architecture:** APIs, RBAC, multi-tenant systems, operational workflows
+**Infrastructure:** Docker, GitHub Actions, Vercel, Railway, Render, Linux  
+**Architecture:** APIs, RBAC, multi-tenant systems, operational workflows, domain-driven data models
 
 ## GitHub Activity
 
@@ -61,6 +65,16 @@ I design and build software products for organizations that need reliable system
 - Multi-tenant platforms for real organizations and operational teams
 - Product engineering that connects technical decisions with business outcomes
 - Internal tools that replace fragmented manual processes with structured systems
+- AI-assisted development workflows with review, iteration, and controlled integration
+
+## Current Product Directions
+
+| Product direction | Scope |
+| --- | --- |
+| Flash Academy | Multi-tenant SaaS for training centers, course operations, student onboarding, and institutional management |
+| Persistech 360 | Organizational evaluation platform focused on structured performance feedback and controlled access |
+| Argon / Einstein | Education-oriented software direction with backend-first architecture and product iteration |
+| Business automation | Practical systems for companies that need better workflows, reporting, and operational visibility |
 
 ## Public Work
 
